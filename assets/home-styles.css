@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.home_description{
+display: flex;
+align-items: center;
+}
+
+.home_title{
+display: flex;
+justify-content: center;
+font-weight: bold;
+font-size: 3rem;
+}
+
+.home_content{
+    text-align: center;
+    font-weight: lighter;
+    margin: 3rem 0;
+    font-size: 2rem;
+}
+
+.home_content2{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 2rem;
+    margin: 3rem 0;
+}
+
+.home_content3{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 2rem;
+}

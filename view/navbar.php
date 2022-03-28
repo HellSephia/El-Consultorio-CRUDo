@@ -8,12 +8,12 @@
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="link-dark text-decoration-none" href="?c=Meeting&a=home">El consultorio CRUDo</a>
+    <a class="link-dark text-decoration-none pe-5" href="?c=Meeting&a=home">El consultorio CRUDo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
+      <div class="navbar-nav d-flex gap-5">
         <a class="link-secondary text-decoration-none" href="?c=Meeting&a=home">Home</a>
         <a class="link-secondary text-decoration-none" href="?c=Meeting&a=index">Consult your meetings</a>
         <a class="link-secondary text-decoration-none" href="?c=Meeting&a=Crud">Create new meeting</a>
