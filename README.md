@@ -18,7 +18,7 @@
 ![home.png](https://github.com/HellSephia/El-Consultorio-CRUDo/blob/dev/assets/home.png?raw=true)
 
 ## CONSULT YOUR MEETINGS:
-![Image text](https://gyazo.com/d5b084b513b3c28c9feb3a45a8f80158)
+![consultmeeting.png](https://gyazo.com/d5b084b513b3c28c9feb3a45a8f80158)
 
 ## CREATE NEW MEETING:
 ![inicio-1.png](https://dsm01pap001files.storage.live.com/y4m72_58foSCM66OUGhKFjfl6KyHHGkwqN8msypzt62HtoXgWXnKsRpAEHvm8Tkh0svOerQa8Vk4llguHPXnLnWw8gFauxGC2SZDQNZC5sZHHARZUsUFOcebUmeeBYPoclLp85hwxAgWuZXOlDmJBt2pHIhKAYECGFS_tKRfSZwR7ApBjV_u5C2j2ITwshhhA0H?width=1897&height=892&cropmode=none)
