@@ -18,10 +18,10 @@
 ![home.png](https://github.com/HellSephia/El-Consultorio-CRUDo/blob/dev/assets/home.png?raw=true)
 
 ## CONSULT YOUR MEETINGS:
-![consultmeeting.png](https://gyazo.com/d5b084b513b3c28c9feb3a45a8f80158)
+![consultmeeting.png](https://github.com/HellSephia/El-Consultorio-CRUDo/blob/dev/assets/consultmeeting.png?raw=true)
 
 ## CREATE NEW MEETING:
-![inicio-1.png](https://dsm01pap001files.storage.live.com/y4m72_58foSCM66OUGhKFjfl6KyHHGkwqN8msypzt62HtoXgWXnKsRpAEHvm8Tkh0svOerQa8Vk4llguHPXnLnWw8gFauxGC2SZDQNZC5sZHHARZUsUFOcebUmeeBYPoclLp85hwxAgWuZXOlDmJBt2pHIhKAYECGFS_tKRfSZwR7ApBjV_u5C2j2ITwshhhA0H?width=1897&height=892&cropmode=none)
+![createmeeting.png](https://github.com/HellSephia/El-Consultorio-CRUDo/blob/dev/assets/createmeeting.png?raw=true)
 
 
 ### Para instalar este repositorio, puedes seguir los pasos que Github te recomienda, copiando el link de este repositorio, despues de esto deberas instalar el archivo "db.sql" en tu PHPMyAdmin.
