@@ -15,8 +15,7 @@
 - Boostrap 5.
 
 ## HOME PAGE:
-<img align='left' src="https://gyazo.com/832e767685f4d40d1d24a6e6a8d50872" width="150">
-
+![home.png](https://gyazo.com/832e767685f4d40d1d24a6e6a8d50872)
 
 ## CONSULT YOUR MEETINGS:
 ![Image text](https://gyazo.com/d5b084b513b3c28c9feb3a45a8f80158)
