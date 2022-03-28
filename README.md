@@ -15,12 +15,13 @@
 - Boostrap 5.
 
 ## HOME PAGE:
-![home.png](https://gyazo.com/832e767685f4d40d1d24a6e6a8d50872)
+![home.png](https://github.com/HellSephia/El-Consultorio-CRUDo/blob/dev/assets/home.png?raw=true)
 
 ## CONSULT YOUR MEETINGS:
 ![Image text](https://gyazo.com/d5b084b513b3c28c9feb3a45a8f80158)
 
 ## CREATE NEW MEETING:
-![Image text](https://gyazo.com/84cb7664c50899fc3ac51139a1d6e0d0)
+![inicio-1.png](https://dsm01pap001files.storage.live.com/y4m72_58foSCM66OUGhKFjfl6KyHHGkwqN8msypzt62HtoXgWXnKsRpAEHvm8Tkh0svOerQa8Vk4llguHPXnLnWw8gFauxGC2SZDQNZC5sZHHARZUsUFOcebUmeeBYPoclLp85hwxAgWuZXOlDmJBt2pHIhKAYECGFS_tKRfSZwR7ApBjV_u5C2j2ITwshhhA0H?width=1897&height=892&cropmode=none)
+
 
 ### Para instalar este repositorio, puedes seguir los pasos que Github te recomienda, copiando el link de este repositorio, despues de esto deberas instalar el archivo "db.sql" en tu PHPMyAdmin.
